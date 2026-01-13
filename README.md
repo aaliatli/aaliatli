@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">I am a 4th grade student at Beykent University</h3>
-
-- 🔭 I’m currently working on **autonomous vehicle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

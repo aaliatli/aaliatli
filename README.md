@@ -1,10 +1,92 @@
+# Hi there, I'm Ali Atlı! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ali-atli0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-atli0" height="30" width="40" /></a>
-<a href="https://instagram.com/aaliss01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaliss01" height="30" width="40" /></a>
-</p>
+### Software Engineer | Full Stack Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm a Software Engineer specializing in **Java, Spring Boot, RESTful APIs, and React**, with hands-on experience in developing enterprise web applications.
 
+My work focuses on backend development, API design, business logic implementation, authentication and authorization, and production deployment processes.
+
+I also have experience working with ERP systems and operational business workflows. My academic background includes an **IEEE-published research project on autonomous parking using ROS 2, real-time visual perception, and sensor fusion.**
+
+---
+
+## 💻 Professional Experience
+
+### Software Engineer | Net&Risk
+*June 2026 – Present*
+
+- Develop and maintain enterprise web applications using **Java, Spring Boot, and React**.
+- Design and implement RESTful APIs, backend services, and business logic.
+- Work with **Spring Security, JWT authentication, and role-based access control (RBAC)**.
+- Contribute to application integrations, maintenance, and performance improvements.
+- Troubleshoot production API, database, and application issues.
+- Participate in **production deployment, application updates, and redeployment processes**.
+
+---
+
+## 🛠️ Technical Skills
+
+**Backend Development**
+- Java
+- Spring Boot
+- Spring Security
+- RESTful APIs
+- Spring Data JPA / Hibernate
+- JWT Authentication & RBAC
+
+**Frontend Development**
+- React
+- JavaScript
+- HTML & CSS
+
+**Databases**
+- PostgreSQL
+- SQL
+
+**DevOps & Development Tools**
+- Docker & Docker Compose
+- Git & GitHub
+- Linux
+- VS Code
+- Postman
+
+**Additional Experience**
+- ERP Systems
+- ROS 2
+- Autonomous Systems
+- Computer Vision & Sensor Fusion
+
+---
+
+## 📚 Research & Publication
+
+### Real-Time Visual Perception and Sensor Fusion Based Autonomous Parking Path Planning System (Using ROS 2)
+
+**IEEE-Published Research | 2025**
+
+Presented at the International Conference on Computer Science and Engineering (UBMK 2025), Istanbul, Türkiye.
+
+Research focused on autonomous parking path planning using ROS 2, real-time visual perception, and sensor fusion.
+
+**Authors:** Ali Atlı, Medine Erçin, Ece Büyükbaş
+
+**Advisor:** Zeynep Altan
+
+📄 **[View Publication on IEEE Xplore](https://ieeexplore.ieee.org/document/11206901)**
+
+---
+
+## 🎯 Areas of Interest
+
+- Backend Engineering & Software Architecture
+- Enterprise Application Development
+- RESTful API Design
+- Application Security
+- DevOps & Deployment
+- Robotics & Autonomous Systems
+
+---
+
+### 📫 Connect With Me
+
+Feel free to explore my repositories and connect with me on GitHub!

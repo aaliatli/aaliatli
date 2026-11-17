@@ -24,6 +24,20 @@ I also have experience working with ERP systems and operational business workflo
 
 ---
 
+## 📌 About My Repositories
+
+Most of the public repositories on my GitHub profile were created during my university years as part of my learning process. These projects are relatively basic and reflect my early experience with software development rather than my current technical capabilities.
+
+Since starting my professional career as a Software Engineer, I have been actively involved in developing and maintaining various enterprise-level applications, primarily using Java, Spring Boot, React, and related technologies.
+
+Due to my ongoing professional responsibilities and involvement in multiple company projects, I haven't had much opportunity to revisit or update my earlier personal repositories.
+
+As my current work primarily involves proprietary company projects, the source code cannot be shared publicly on my personal GitHub account.
+
+**My public repositories represent where my development journey began, while my professional experience reflects how far I've progressed.**
+
+---
+
 ## 🛠️ Technical Skills
 
 **Backend Development**
